@@ -77,6 +77,7 @@ When a repo changes in a meaningful way, update the README, manifest, release le
 - [Journal Pattern](docs/journal-pattern.md)
 - [Release Ledger Pattern](docs/release-ledger-pattern.md)
 - [Validation Pattern](docs/validation-pattern.md)
+- [Schema Family Map](docs/schema-family-map.md)
 
 ## Build A New Repo
 
@@ -100,14 +101,17 @@ When a repo changes in a meaningful way, update the README, manifest, release le
 
 ## Related Schema
 
-This repo covers general Git repo structure.
-
-The sibling schema for agent creation is:
-
 ```text
-schema-agent
+schema-agent      = how to build agents
+schema-gitrepo    = how to structure Git repos
+agent-housekeeper = first working reusable agent standard
+motif             = working product repo using the repo and agent patterns
 ```
+
+Read:
+
+- [Schema Family Map](docs/schema-family-map.md)
 
 ## Status
 
-Version: `v0.1.1-populated`
+Version: `v0.1.2-family-map`
