@@ -53,6 +53,7 @@ obsidian/
 obsidian/journal/
 templates/
 tests/
+examples/
 ```
 
 ## Gitrepo-Building Rule
@@ -84,6 +85,19 @@ When a repo changes in a meaningful way, update the README, manifest, release le
 - [Minimum Viable Git Repo](docs/git-repo-minimum-viable-repo.md)
 - [Schema Selection Guide](docs/schema-selection-guide.md)
 
+## Templates
+
+- [README Template](templates/readme-template.md)
+- [ABOUT Template](templates/about-template.md)
+- [PRD Template](templates/prd-template.md)
+- [Feature Ticket Template](templates/feature-ticket-template.md)
+- [Journal Entry Template](templates/journal-entry-template.md)
+- [Handoff Sheet Template](templates/handoff-sheet-template.md)
+
+## Example
+
+- [Example Repo Structure](examples/example-repo-structure.md)
+
 ## Related Schema
 
 This repo covers general Git repo structure.
@@ -96,4 +110,4 @@ schema-agent
 
 ## Status
 
-Version: `v0.1.0-origin`
+Version: `v0.1.1-populated`
