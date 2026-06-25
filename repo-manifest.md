@@ -28,6 +28,23 @@ The Repo Manifest lists the important files and folders in Schema Gitrepo.
 | tests/ | Validation notes |
 | examples/ | Example repo structures |
 
+## Important Docs
+
+| File | Purpose |
+| --- | --- |
+| docs/git-repo-schema.md | Core schema |
+| docs/repo-build-process.md | Repo build flow |
+| docs/repo-folder-standard.md | Folder rules |
+| docs/feature-ticket-pattern.md | Feature ticket rules |
+| docs/journal-pattern.md | Journal rules |
+| docs/release-ledger-pattern.md | Release ledger rules |
+| docs/repo-manifest-pattern.md | Manifest rules |
+| docs/validation-pattern.md | Validation rules |
+| docs/new-repo-checklist.md | New repo checklist |
+| docs/build-new-repo-prompt.md | AI handoff prompt |
+| docs/schema-selection-guide.md | Schema choice guide |
+| docs/git-repo-minimum-viable-repo.md | Minimum safe repo |
+
 ## House Rule
 
 When a new important file or folder is added, update this manifest.
