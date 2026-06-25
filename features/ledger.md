@@ -13,6 +13,7 @@
 | FEAT-0007 | Build New Repo Prompt | Draft | tickets/FEAT-0007-build-new-repo-prompt.md |
 | FEAT-0008 | Schema Selection Guide | Draft | tickets/FEAT-0008-schema-selection-guide.md |
 | FEAT-0009 | Minimum Viable Git Repo | Draft | tickets/FEAT-0009-minimum-viable-git-repo.md |
+| FEAT-0010 | Family Map | Draft | tickets/FEAT-0010-family-map.md |
 
 ## Rule
 
